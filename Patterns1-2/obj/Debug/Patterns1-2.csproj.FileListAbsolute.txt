@@ -1,0 +1,10 @@
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\bin\Debug\Patterns1-2.exe.config
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\bin\Debug\Patterns1-2.exe
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\bin\Debug\Patterns1-2.pdb
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\obj\Debug\Patterns1-2.csproj.AssemblyReference.cache
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\obj\Debug\Patterns1_2.Form1.resources
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\obj\Debug\Patterns1_2.Properties.Resources.resources
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\obj\Debug\Patterns1-2.csproj.GenerateResource.cache
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\obj\Debug\Patterns1-2.csproj.CoreCompileInputs.cache
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\obj\Debug\Patterns1-2.exe
+C:\Users\armok\Documents\lebedeva\Паттерны Проектирования\Patterns1-2\Patterns1-2\obj\Debug\Patterns1-2.pdb
